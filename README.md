@@ -7,5 +7,6 @@ Este repositorio contiene los dos ficheros de prueba que se han utilizado para l
 Los ficheros están escritos en los lenguajes Java y Python, cuyo contenido es una pequeña prueba realizada para comprobar el funcionamiento.
 
 > __Desarrollado por *Emilio Crespo Perán* ©__<br>
-__Perfil de [Google +](https://plus.google.com/104659634712390045452)__<br>
-__Blog personal: https://stacknowledge.blogspot.com/__
+Perfil de [LinkedIn](https://www.linkedin.com/in/emilio-crespo-aa95a8a5/)<br>
+Blog personal [Stacknowledge](https://stacknowledge.blogspot.com/)<br>
+Correo: emiliocrespoperan@gmail.com
